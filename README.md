@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drilon Bicaj</h1>
-<h3 align="center">A passionate frontend developer from I Kosovondia</h3>
+<h3 align="center">A passionate frontend developer from I Kosovo</h3>
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiuc.org%2Fwp-content%2Fuploads%2F2020%2F08%2F6-Reasons-why-you-should-learn-Programming.png&tbnid=SHWBXxqn74A9DM&vet=12ahUKEwjyu7HnlqL-AhV-gv0HHViKAWYQMygfegUIARCjAg..i&imgrefurl=https%3A%2F%2Fmiuc.org%2F6-reasons-learn-programming%2F&docid=CkRlGPD3b1vx8M&w=800&h=366&q=programming&client=avast-a-1&ved=2ahUKEwjyu7HnlqL-AhV-gv0HHViKAWYQMygfegUIARCjAg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr1lonb&label=Profile%20views&color=0e75b6&style=flat" alt="dr1lonb" /> </p>
 
