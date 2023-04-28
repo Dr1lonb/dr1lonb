@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Drilon Bicaj</h1>
+<h1 align="center">Hi I'm Drilon Bicaj</h1>
 <h3 align="center">A passionate frontend developer from Kosovo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr1lonb&label=Profile%20views&color=0e75b6&style=flat" alt="dr1lonb" /> </p>
 
-- 🔭 I’m currently working on **dynamic web**
+-  I’m currently working on **dynamic web**
 
-- 🌱 I’m currently learning **JavaScript ReactJs**
+-  I’m currently learning **JavaScript ReactJs**
 
-- 📫 How to reach me **Drilon.bicaj10@gmail.com**
+-  How to reach me **Drilon.bicaj10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
