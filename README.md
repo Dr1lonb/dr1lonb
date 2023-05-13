@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Drilon Bicaj</h1>
-<p align="center">A very passionate person about programming in general but mainly focused in front-end technologies. I am interested in getting an internship where I would be able to showcase my skills and improve them more by getting into real-world projects</p>
+<p >A very passionate person about programming in general but mainly focused in front-end technologies. I am interested in getting an internship where I would be able to showcase my skills and improve them more by getting into real-world projects</p>
 
 -  I’m currently working on **dynamic web**
 
